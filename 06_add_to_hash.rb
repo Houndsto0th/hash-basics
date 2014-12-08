@@ -19,7 +19,5 @@ person = {
 #   "BB"
 #
 #------- your code below here ---------
-
+p person["nickname"] = "bb"
 #------- your code above here ---------
-
-p person["nickname"]
